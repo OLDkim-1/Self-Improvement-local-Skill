@@ -1,4 +1,4 @@
-# 🔐 Secure Local Skill
+# 🔐 Self-Improvement-local-Skill
 ### 安全、离线、脱敏、无第三方依赖的开发者技能沉淀工具
 
 **No OpenClaw • No Third-Party • No Tracking • No Upload • 100% Local**
