@@ -28,6 +28,8 @@ echo "source ~/.my_secure_skill.sh" >> ~/.bashrc
 echo "source ~/.my_secure_skill.sh" >> ~/.zshrc
 source ~/.my_secure_skill.sh
 
+---
+
 ### 🖥️ CC Switch 安装方式
 1. 下载仓库 ZIP 包：点击仓库右上角「Code」→「Download ZIP」；
 2. 解压后，选中 `skill.json` + `secure-skill.sh` 两个文件，重新打包成 ZIP（⚠️ 不要包含外层文件夹）；
