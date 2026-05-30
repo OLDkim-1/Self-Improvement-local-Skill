@@ -1,4 +1,4 @@
-<img width="849" height="77" alt="image" src="https://github.com/user-attachments/assets/b74ca0c8-9467-4890-b5f9-4ee1d4eb367c" /># 🔐 Secure Local Skill
+# 🔐 Secure Local Skill
 ### 安全、离线、脱敏、无第三方依赖的开发者技能沉淀工具
 
 **No OpenClaw • No Third-Party • No Tracking • No Upload • 100% Local**
