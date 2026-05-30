@@ -22,7 +22,7 @@
 
 ## 🚀 一键安装
 ```bash
-curl -sL https://raw.githubusercontent.com/0LDkim-1/secure-local-skill/main/secure-skill.sh > ~/.my_secure_skill.sh
+curl -sL https://raw.githubusercontent.com/0LDkim-1/Self-Improvement-local-Skill/main/secure-skill.sh > ~/.my_secure_skill.sh
 chmod 600 ~/.my_secure_skill.sh
 echo "source ~/.my_secure_skill.sh" >> ~/.bashrc
 echo "source ~/.my_secure_skill.sh" >> ~/.zshrc
