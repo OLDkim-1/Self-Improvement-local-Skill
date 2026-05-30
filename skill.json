@@ -1,0 +1,17 @@
+{
+  "name": "SecureLocalSkill",
+  "version": "1.0.0",
+  "description": "安全本地技能记录（无OpenClaw/自动脱敏/纯本地运行）",
+  "author": "0LDkim-1",
+  "scripts": {
+    "install": "bash secure-skill.sh install",
+    "skill": "bash secure-skill.sh skill",
+    "error": "bash secure-skill.sh error",
+    "skills": "bash secure-skill.sh skills",
+    "errors": "bash secure-skill.sh errors",
+    "audit": "bash secure-skill.sh audit",
+    "reset": "bash secure-skill.sh reset"
+  },
+  "platforms": ["linux", "macos"],
+  "requires": []
+}
