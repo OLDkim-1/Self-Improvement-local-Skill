@@ -21,13 +21,15 @@
 ---
 
 ## 🚀 一键安装
+打开终端（Mac 用「终端」App，Linux 用「Terminal」）；
+复制粘贴以下命令，回车执行（一键安装）：
 ```bash
 curl -sL https://raw.githubusercontent.com/0LDkim-1/Self-Improvement-local-Skill/main/secure-skill.sh > ~/.my_secure_skill.sh
 chmod 600 ~/.my_secure_skill.sh
 echo "source ~/.my_secure_skill.sh" >> ~/.bashrc
 echo "source ~/.my_secure_skill.sh" >> ~/.zshrc
 source ~/.my_secure_skill.sh
-
+```bash
 ---
 
 ### 🖥️ CC Switch 安装方式
